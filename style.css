@@ -1,0 +1,60 @@
+.bg-red {
+    background-color: darkred !important;
+}
+
+.bg-black{
+    background-color: black !important;
+}
+
+body{
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 2.2em;
+    color:darkred;
+    margin: 0;
+    background-color: black;
+}
+h1{
+    font-size: 40px;
+    color: white;
+    background-color: darkred;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h2{
+    font-size: 25px;
+    color:white;
+    text-transform: uppercase;
+    font-weight:bold;
+    padding: 2px;
+    text-align: center;
+    font-style: italic;
+    background-color: darkred;
+}
+
+body footer{
+    text-align: center;
+    background-color: darkred;
+    color: white;
+}
+
+
+#conquistas .titulos figure{
+    display: inline-block;
+    text-align: center;
+}
+
+
+#historia p{
+    color: white;
+    text-align: justify;
+    font-size: medium;
+    font-weight: bold;
+    background-color: black;
+}
+
